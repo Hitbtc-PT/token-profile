@@ -1,0 +1,27 @@
+{
+  "symbol": " DOTA EC",
+  "address": "0xeA84f0bCCecc47828E540A263a4D45680A0a36FB",
+  "overview":{
+        "en": "DOTA ELLEMENT COIN is the first online player to have a real target encryption currency. Can earn and trade DOTA2 jewelry online on the most popular collection lottery community website..",
+        "zh": "DOTA ELEMENT COIN是在线玩家第一个具有真正目 的的加密货币。能在最受欢迎的珍藏抽奖社区网站在线赚取和交易DOTA2饰品。"
+  },
+  "email": "bane097@163.com",
+  "website": "https://www.DotaELLEMENT.com/",
+  "whitepaper": "https://https://www.DotaELLEMENT.com/DOTAEC.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-08-17",
+  "initial_price":{
+        "ETH":"0ETH",
+        "USD":"0USD",
+        "BTC":"0BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/DotaELLEMENT",
+    "telegram": "https://t.me/joinchat/DotaELLEMENT",
+    "github": "https://github.com/Hitbtc-PT",
+    "facebook": "https://www.facebook.com/DotaELLEMENT",
+    "reddit": "https://www.reddit.com/r/DotaELLEMENT/",
+    "slack": "https://your-awesome-project.slack.com",
+    "medium": "https://medium.com/DotaELLEMENT"
+  }
+}
